@@ -1,0 +1,9 @@
+/home/dawg/opencv_try/CMakeFiles/edit_cache.dir
+/home/dawg/opencv_try/CMakeFiles/rebuild_cache.dir
+/home/dawg/opencv_try/CMakeFiles/writvid.dir
+/home/dawg/opencv_try/CMakeFiles/dispvid.dir
+/home/dawg/opencv_try/CMakeFiles/DisplayImage.dir
+/home/dawg/opencv_try/CMakeFiles/load.dir
+/home/dawg/opencv_try/CMakeFiles/conden.dir
+/home/dawg/opencv_try/CMakeFiles/color_slider.dir
+/home/dawg/opencv_try/CMakeFiles/roi.dir
